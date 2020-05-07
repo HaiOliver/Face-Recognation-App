@@ -43,7 +43,7 @@ class App extends Component {
 		this.onButtonSubmit = this.onButtonSubmit.bind(this);
 	}
 
-	// Set connection between Front-end and Back End
+	// Set connection between Front-end and Back End -> testing purpose
 	// componentDidMount(){
 	// 	fetch("http://localhost:3000").then(response => response.json()).then(data=>console.log(data))
 	// }

@@ -49,5 +49,6 @@
   "bugs": {
     "url": "https://github.com/HaiOliver/Face-Recognation-App/issues"
   },
-  "homepage": "https://github.com/HaiOliver/Face-Recognation-App#readme"
+
+  "homepage": "."
 }
